@@ -8,7 +8,9 @@ height: 100%;
 *::after {
 box-sizing: inherit;
 }
-
+destination:hover h2 {
+transform: rotate(0deg);
+}
 body {
 display: flex;
 margin: 0;
